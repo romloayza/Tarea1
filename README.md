@@ -13,7 +13,7 @@
 | **🔢 EDAD**          | Edad de la persona confirmada como caso positivo de COVID-19                                              |
 | **SEXO**          | Sexo de la persona confirmada como caso positivo de COVID-19                                              |
 | **📅 FECHA_RESULTADO** | Fecha del resultado de la prueba de COVID-19                                                          |
-| **📅 semana**        | Semana del año del resultado de la prueba COVID-19     
+| **📅 semana**        | Semana del año del resultado de la prueba COVID-19     |
 
 # Resultados:
 https://romloayza.github.io/Tarea1/ 
